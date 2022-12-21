@@ -1,5 +1,5 @@
 site_name: My Docs
 repo_url: https://carolineingrid.github.io/Curriculo-Markdown/
   theme:
-  name: material
-  nav_style: dark
+  palette:
+    primary: indigo
