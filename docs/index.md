@@ -1,4 +1,3 @@
-
 ## INGRID CAROLINE DE JESUS
 #### Desenvolvedora de Software 💻
 
@@ -8,13 +7,14 @@
 *Estudando análise em desenvolvimento de sistemas, com foco em desenvolvimento de software. Me considero uma pessoa proativa, focada e ambiciosa, em busca da inovação, pensando sempre no usuário e suas interfaces.*
 
 
-**Dados Pessoais** :smile:  
+**Dados Pessoais** 
 Ingrid Caroline de Jesus
- 21/04/1999
+21/04/1999
 🏘️ São Paulo - SP
 ingridcaroline3012@gmail.com
+--
 
-Habilidades
+**Habilidades**
 HTML, CSS, JS, VUEJS;
 Python e Django;
 Git e GitHub;
@@ -25,17 +25,19 @@ Photoshop;
 Pacote Office;
 Curso Completo de Desenvolvimento Web (Udemy);
 JavaScript Completo (Origamid) - Cursando.
-Histórico Profissional
-BUSER
-Redes Sociais
-2022-presente
+
+**Histórico Profissional**
+BUSER - 2022/presente
 Estagiária FullStack - Desenvolvimento de software utilizando
 diariamente Django, Vuejs, JS, API/Mock, testes Jest, entre
 outras ferramentas, participei de projetos B2C além de dailys e
 planejamentos, sempre visando o produto se adaptar ao cliente,
 sempre usando lógica.
-SÃO CAETANO- EMEF BARTOLOMEU 2018-2020
+
+SÃO CAETANO- EMEF BARTOLOMEU 2018/2020
 Auxiliar de classe
+
+
 https://www.linkedin.co
 m/in/ingridcaroline/
 Formação Educacional

@@ -1,5 +1,6 @@
-site_name: My Docs
+site_name: Currículo Ingrid Caroline
 repo_url: https://carolineingrid.github.io/Curriculo-Markdown/
-  theme:
+theme:
+  name: material
   palette:
-    primary: indigo
+    primary: pink
